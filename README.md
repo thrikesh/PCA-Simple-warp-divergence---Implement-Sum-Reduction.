@@ -1500,5 +1500,6 @@ kernel reduceUnrolling8
 <br>![output](./ex32.png)
 <br>![output](./ex33.png)
 <br>![output](./ex34.png)
-## Result
+
+## Result:
 Implementation of the kernel reduceUnrolling16 is done and the performance of kernal reduceUnrolling16 is comapared with kernal reduceUnrolling8 using proper metrics and events with nvprof.
