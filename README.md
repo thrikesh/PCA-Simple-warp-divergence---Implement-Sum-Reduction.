@@ -23,9 +23,6 @@ Step 7 : Declare Main method/function . In the Main method , set up the device a
 
 Step 8 : Atlast , free the host and device memory then reset the device and check for results.
 
-
-
-
 ##PROGRAM:
 ```
 kernel reduceUnrolling8
