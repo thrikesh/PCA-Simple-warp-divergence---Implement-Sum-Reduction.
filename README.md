@@ -1495,6 +1495,7 @@ int main(int argc, char **argv)
     return EXIT_SUCCESS;
 }
 ## Output:
+
 kernel reduceUnrolling8
 <br>![output](./ex31.png)
 <br>![output](./ex32.png)
