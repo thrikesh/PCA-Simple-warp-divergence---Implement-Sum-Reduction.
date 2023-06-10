@@ -315,9 +315,8 @@ __global__ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 ## Output:
 
 kernel reduceUnrolling8
-![image](https://github.com/thrikesh/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/119576222/d23e52b8-3d45-4c15-9af4-0c8cd1a0c554)
-![image](https://github.com/thrikesh/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/119576222/08502334-a65c-48dd-8d97-8159109c6787)
-
+<br>![output](./pca(ex3)a.png)
+<br>![output](./pca(ex3)b.png)
 
 ## Result:
 Implementation of the kernel reduceUnrolling16 is done and the performance of kernal reduceUnrolling16 is comapared with kernal reduceUnrolling8 using proper metrics and events with nvprof.
