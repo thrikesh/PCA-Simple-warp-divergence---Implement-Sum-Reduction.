@@ -313,7 +313,9 @@ __global__ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 
 
 ## Output:
-<br>![output](./a.png)
+
+![image](https://github.com/thrikesh/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/119576222/0efa5fad-d607-4755-9839-e13956aa6d26)
+
 ![image](https://github.com/thrikesh/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/119576222/a731d791-a3b8-47ff-a9f4-ab6a6e357428)
 
 
