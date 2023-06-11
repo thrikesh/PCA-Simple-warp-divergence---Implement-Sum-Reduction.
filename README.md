@@ -315,8 +315,7 @@ __global__ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 ## Output:
 
 kernel reduceUnrolling8
-<br>![output](./pca(ex3)a.png)
-<br>![output](./pca(ex3)b.png)
+
 
 ## Result:
 Implementation of the kernel reduceUnrolling16 is done and the performance of kernal reduceUnrolling16 is comapared with kernal reduceUnrolling8 using proper metrics and events with nvprof
