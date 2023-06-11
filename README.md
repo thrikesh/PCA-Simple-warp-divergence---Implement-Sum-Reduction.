@@ -315,6 +315,8 @@ __global__ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 ## Output:
 
 kernel reduceUnrolling8
+<br>![output](./pca(ex3)a.png)
+<br>![output](./pca(ex3)b.png)
 
 
 ## Result:
